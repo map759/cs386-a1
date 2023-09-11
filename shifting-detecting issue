@@ -1,0 +1,5 @@
+2 issues had come up in testing:
+
+1. when shifting(moving) to the left the car goes to the opposite direction same with the direction to the right
+
+2. the sensors for detecting blindspots are backwards either hardware or software issue may be a result of issue number 1
